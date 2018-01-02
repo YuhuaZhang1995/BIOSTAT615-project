@@ -1,3 +1,3 @@
 # BIOSTAT615-project
 
-Implemetation of RSS-BVSR model
+Remplemetation of RSS-BVSR model using Rcpp
